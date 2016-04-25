@@ -1,0 +1,1 @@
+This jQuery plugin allows a user to create an animated thermometer style metric display on his website. Color, hatch marks, background images, detail data and more are all customizable.
